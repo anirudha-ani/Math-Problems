@@ -1,0 +1,6 @@
+Problem state ment -  https://algo.codemarshal.org/contests/baps-sel-16/problems/E
+
+Solution technique - 
+
+You need to know about Chromatic Polynomial . This problem can be modeled as Ladder Graph . And details about Chromatic Polynomial in Ladder Graph can be found here - 
+http://mathworld.wolfram.com/ChromaticPolynomial.html
